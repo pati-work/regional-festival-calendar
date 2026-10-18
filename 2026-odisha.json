@@ -1,0 +1,126 @@
+{
+  "year": 2026,
+  "region": "IN-OR",
+  "calendar_source": "Odia Kohinoor / Radharamana Panji & Odisha Govt Gazette",
+  "festivals": [
+    {
+      "date": "2026-01-23",
+      "name": "Basanta Panchami / Veer Surendra Sai Jayanti",
+      "odia_name": "ବସନ୍ତ ପଞ୍ଚମୀ / ବୀର ସୁରେନ୍ଦ୍ର ସାଏ ଜୟନ୍ତୀ",
+      "type": "State Holiday",
+      "significance": "Celebrates the freedom fighter alongside Saraswati Puja."
+    },
+    {
+      "date": "2026-03-03",
+      "name": "Dola Purnima",
+      "odia_name": "ଦୋଳ ପୂର୍ଣ୍ଣିମା",
+      "type": "Major Regional",
+      "significance": "Swinging ritual of Dola Govinda (Lord Jagannath) and Radha; Phalgu playing."
+    },
+    {
+      "date": "2026-04-01",
+      "name": "Utkal Divas (Odisha Day)",
+      "odia_name": "ଉତ୍କଳ ଦିବସ",
+      "type": "State Holiday",
+      "significance": "Commemorates the formation of Odisha as a separate province in 1936."
+    },
+    {
+      "date": "2026-04-14",
+      "name": "Maha Bishuba Sankranti / Pana Sankranti",
+      "odia_name": "ମହା ବିଷୁବ ପଣା ସଂକ୍ରାନ୍ତି",
+      "type": "Odia New Year",
+      "significance": "Traditional Odia Solar New Year and preparation of festive Bela Pana."
+    },
+    {
+      "date": "2026-05-16",
+      "name": "Savitri Amavasya",
+      "odia_name": "ସାବିତ୍ରୀ ଅମାବାସ୍ୟା",
+      "type": "Regional Fasting",
+      "significance": "Fasting observed by married Odia women for the longevity of husbands."
+    },
+    {
+      "date": "2026-06-14",
+      "name": "Pahili Raja",
+      "odia_name": "ପହିଲି ରଜ",
+      "type": "Cultural Festival",
+      "significance": "First day of the three-day agricultural celebration of womanhood."
+    },
+    {
+      "date": "2026-06-15",
+      "name": "Raja Sankranti",
+      "odia_name": "ରଜ ସଂକ୍ରାନ୍ତି",
+      "type": "State Holiday",
+      "significance": "Main day of Raja Parba marked by swings, folk games, and Pitha."
+    },
+    {
+      "date": "2026-06-29",
+      "name": "Devasnan Purnima (Snana Yatra)",
+      "odia_name": "ଦେବସ୍ନାନ ପୂର୍ଣ୍ଣିମା",
+      "type": "Srimandir Ritual",
+      "significance": "Ceremonial 108-pitcher bath of deities followed by the 15-day Anasara period."
+    },
+    {
+      "date": "2026-07-16",
+      "name": "Puri Ratha Yatra (Sri Gundicha Yatra)",
+      "odia_name": "ରଥଯାତ୍ରା",
+      "type": "State Holiday",
+      "significance": "Grand chariot procession of the Holy Trinity to Gundicha Temple."
+    },
+    {
+      "date": "2026-07-24",
+      "name": "Bahuda Yatra",
+      "odia_name": "ବାହୁଡ଼ା ଯାତ୍ରା",
+      "type": "Restricted Holiday",
+      "significance": "Return journey of the chariots back to the Singhadwara."
+    },
+    {
+      "date": "2026-08-27",
+      "name": "Jhulan Purnima / Gamha Purnima",
+      "odia_name": "ଝୁଲଣ ପୂର୍ଣ୍ଣିମା / ଗହ୍ମା ପୂର୍ଣ୍ଣିମା",
+      "type": "Regional Ritual",
+      "significance": "Balabhadra Janma and swing festivals across Jagannath and Krishna mutts."
+    },
+    {
+      "date": "2026-09-15",
+      "name": "Nuakhai",
+      "odia_name": "ନୂଆଖାଇ",
+      "type": "State Holiday",
+      "significance": "Agrarian harvest festival of Western Odisha; Nabanna offering to Maa Samaleswari."
+    },
+    {
+      "date": "2026-10-25",
+      "name": "Kumar Purnima / Gajalaxmi Puja Begins",
+      "odia_name": "କୁମାର ପୂର୍ଣ୍ଣିମା / ଗଜଲକ୍ଷ୍ମୀ ପୂଜା",
+      "type": "Cultural Festival",
+      "significance": "Worship of the Moon by youth, launch of the Dhenkanal Lakshmi Puja festival."
+    },
+    {
+      "date": "2026-11-17",
+      "name": "Anla Navami",
+      "odia_name": "ଅଁଳା ନବମୀ",
+      "type": "Restricted Holiday",
+      "significance": "Radha Pada Darshan at Sakshigopal and worship of the sacred Amla tree."
+    },
+    {
+      "date": "2026-11-23",
+      "name": "Rahas Purnima",
+      "odia_name": "ରାହାସ ପୂର୍ଣ୍ଣିମା",
+      "type": "State Holiday",
+      "significance": "Observance of divine Raas Leela during the Kartika month."
+    },
+    {
+      "date": "2026-11-24",
+      "name": "Kartika Purnima / Boita Bandana & Bali Jatra",
+      "odia_name": "କାର୍ତ୍ତିକ ପୂର୍ଣ୍ଣିମା / ବୋଇତ ବନ୍ଦାଣ",
+      "type": "Major Regional",
+      "significance": "Floating miniature paper boats in water bodies and opening of Cuttack Bali Jatra."
+    },
+    {
+      "date": "2026-11-30",
+      "name": "Prathamastami",
+      "odia_name": "ପ୍ରଥମାଷ୍ଟମୀ",
+      "type": "Restricted Holiday",
+      "significance": "Ritual honoring first-born children with new garments and Enduri Pitha."
+    }
+  ]
+}
