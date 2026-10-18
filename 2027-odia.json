@@ -1,0 +1,140 @@
+{
+  "year": 2027,
+  "region": "IN-OR",
+  "calendar_source": "Odia Kohinoor / Radharamana Panji & Odisha Gazette",
+  "festivals": [
+    {
+      "date": "2027-01-23",
+      "name": "Veer Surendra Sai Jayanti",
+      "odia_name": "ବୀର ସୁରେନ୍ଦ୍ର ସାଏ ଜୟନ୍ତୀ",
+      "type": "State Holiday",
+      "significance": "Birth anniversary of the iconic Odia freedom fighter."
+    },
+    {
+      "date": "2027-02-11",
+      "name": "Basanta Panchami (Saraswati Puja)",
+      "odia_name": "ବସନ୍ତ ପଞ୍ଚମୀ / ଶ୍ରୀ ପଞ୍ଚମୀ",
+      "type": "State Holiday",
+      "significance": "Worship of the Goddess of learning; initiation of Akshaya Tritiya chariot wood collection."
+    },
+    {
+      "date": "2027-03-06",
+      "name": "Maha Shivaratri (Jagara)",
+      "odia_name": "ମହା ଶିବରାତ୍ରୀ (ଜାଗର)",
+      "type": "State Holiday",
+      "significance": "Night-long fasting culminating in the raising of the Mahadipa at Lingaraj and Puri temples."
+    },
+    {
+      "date": "2027-03-23",
+      "name": "Dola Purnima",
+      "odia_name": "ଦୋଳ ପୂର୍ଣ୍ଣିମା",
+      "type": "Major Regional",
+      "significance": "Grand swing festival of Radha-Krishna deities; reading of the new solar almanac."
+    },
+    {
+      "date": "2027-04-01",
+      "name": "Utkal Divas (Odisha Day)",
+      "odia_name": "ଉତ୍କଳ ଦିବସ",
+      "type": "State Holiday",
+      "significance": "Commemorates the foundation day of Odisha as a separate linguistic province in 1936."
+    },
+    {
+      "date": "2027-04-14",
+      "name": "Maha Bishuba Sankranti / Pana Sankranti",
+      "odia_name": "ମହା ବିଷୁବ ପଣା ସଂକ୍ରାନ୍ତି",
+      "type": "Odia New Year",
+      "significance": "Traditional Odia Solar New Year. Offering of sweet 'Bela Pana' to Tulsi plants."
+    },
+    {
+      "date": "2027-05-09",
+      "name": "Akshaya Tritiya",
+      "odia_name": "ଅକ୍ଷୟ ତୃତୀୟା",
+      "type": "Agrarian Ritual",
+      "significance": "Commencement of the construction of Ratha Yatra chariots and the Akhi Muthi Anukula farming ritual."
+    },
+    {
+      "date": "2027-06-04",
+      "name": "Savitri Amavasya",
+      "odia_name": "ସାବିତ୍ରୀ ଅମାବାସ୍ୟା",
+      "type": "Regional Fasting",
+      "significance": "Fasting observed by married Odia women for the well-being and longevity of husbands."
+    },
+    {
+      "date": "2027-06-14",
+      "name": "Pahili Raja",
+      "odia_name": "ପହିଲି ରଜ",
+      "type": "Cultural Festival",
+      "significance": "First day of the three-day agrarian festival celebrating swing games, Pitha, and earth fertility."
+    },
+    {
+      "date": "2027-06-15",
+      "name": "Raja Sankranti",
+      "odia_name": "ରଜ ସଂକ୍ରାନ୍ତି",
+      "type": "State Holiday",
+      "significance": "The peak day of Raja Parba, where no farming operations take place to let the earth rest."
+    },
+    {
+      "date": "2027-06-18",
+      "name": "Devasnan Purnima (Snana Yatra)",
+      "odia_name": "ଦେବସ୍ନାନ ପୂର୍ଣ୍ଣିମା",
+      "type": "Srimandir Ritual",
+      "significance": "Ceremonial public bathing of Lord Jagannath's Trinity, leading to the 15-day Anasara isolation."
+    },
+    {
+      "date": "2027-07-05",
+      "name": "Puri Ratha Yatra (Sri Gundicha Yatra)",
+      "odia_name": "ରଥଯାତ୍ରା",
+      "type": "State Holiday",
+      "significance": "The world-renowned Chariot Festival journey from Srimandir to the Gundicha Temple."
+    },
+    {
+      "date": "2027-07-13",
+      "name": "Bahuda Yatra",
+      "odia_name": "ବାହୁଡ଼ା ଯାତ୍ରା",
+      "type": "Restricted Holiday",
+      "significance": "The grand return chariot leg of the deities back to the Singhadwara of Jagannath Temple."
+    },
+    {
+      "date": "2027-08-17",
+      "name": "Gamha Purnima (Raksha Bandhan)",
+      "odia_name": "ଗହ୍ମା ପୂର୍ଣ୍ଣିମା",
+      "type": "Cultural Festival",
+      "significance": "Worship of cattle alongside standard Rakhi rituals, honoring the birthday of Lord Balabhadra."
+    },
+    {
+      "date": "2027-09-05",
+      "name": "Nuakhai",
+      "odia_name": "ନୂଆଖାଇ",
+      "type": "State Holiday",
+      "significance": "The massive harvest festival of Western Odisha where communities consume the first grains of new rice."
+    },
+    {
+      "date": "2027-10-14",
+      "name": "Kumar Purnima / Gajalaxmi Puja Begins",
+      "odia_name": "କୁମାର ପୂର୍ଣ୍ଣିମା / ଗଜଲକ୍ଷ୍ମୀ ପୂ୍ଜା",
+      "type": "Cultural Festival",
+      "significance": "Autumn full-moon evening worship by youth; kicks off the massive Gajalaxmi festivals."
+    },
+    {
+      "date": "2027-11-07",
+      "name": "Anla Navami",
+      "odia_name": "ଅଁଳା ନବମୀ",
+      "type": "Restricted Holiday",
+      "significance": "Amla tree worship and the holy 'Radha Pada Darshan' at the historic Sakshigopal Temple."
+    },
+    {
+      "date": "2027-11-14",
+      "name": "Kartika Purnima / Boita Bandana",
+      "odia_name": "କାର୍ତ୍ତିକ ପୂର୍ଣ୍ଣିମା / ବୋଇତ ବନ୍ଦାଣ",
+      "type": "Major Regional",
+      "significance": "Floating of toy paper/bark boats at dawn to honor Kalinga's historic trans-oceanic maritime trade."
+    },
+    {
+      "date": "2027-11-20",
+      "name": "Prathamastami",
+      "odia_name": "ପ୍ରଥମାଷ୍ଟମୀ",
+      "type": "Restricted Holiday",
+      "significance": "Honoring the first-born child of the house with new garments and steaming of Enduri Pitha."
+    }
+  ]
+}
